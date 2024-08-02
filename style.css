@@ -1,0 +1,45 @@
+img{
+    display: block;
+    margin:0 auto ;
+}
+div{
+    margin: 0 auto;
+    text-align: center;
+    width: 700px;
+}
+h1{
+    border: 4px solid gray;
+    font-size: 20px;
+    padding:10px;
+    font-family: Verdana;
+    
+}
+
+p{
+    font-size: 15px;
+    margin: 0 auto;
+    font-family: arial;
+}
+h2{
+    border: 4px solid gray;
+    padding: 10px;
+    font-size: 20px;
+    font-family: verdana;
+}
+h3{
+    border: 4px solid gray;
+    padding: 10PX ;
+    font-size: 20px;
+    font-family: verdana;
+
+}
+a{
+    font-size: 17px;
+    font-family: verdana;
+    text-decoration: none;
+    background-color: chartreuse;
+    color:white;
+    padding: 8px 15px;
+    border-radius: 25px;
+
+}
